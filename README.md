@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daffodiljohntukey
 - 👀 I’m Data Science Enthusiast
-- 🌱 I have over 18 years experience working with various applications mainly processing data 
+- 🌱 I have over 18 years experience implementing various applications mainly processing complex and huge data  
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me ...
 
